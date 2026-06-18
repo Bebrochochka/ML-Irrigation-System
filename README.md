@@ -1,5 +1,8 @@
 # Smart Irrigation System — Machine Learning to TinyML Project
 
+##Notes&Links
+For Dataset: https://www.kaggle.com/competitions/playground-series-s6e4/data
+
 ## About this project
 
 This project explores the idea of building a smart irrigation system using machine learning and deploying it on an embedded device (ESP32-S3).
@@ -60,5 +63,4 @@ The final goal is to create a fully working edge AI system that can:
 * basics of TinyML pipeline thinking
 * how to connect AI models with real hardware systems
 
-##Notes&Links
-For Dataset: https://www.kaggle.com/competitions/playground-series-s6e4/data
+
