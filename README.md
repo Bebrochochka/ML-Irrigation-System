@@ -59,3 +59,6 @@ The final goal is to create a fully working edge AI system that can:
 * how ML systems can be prepared for embedded deployment
 * basics of TinyML pipeline thinking
 * how to connect AI models with real hardware systems
+
+##Notes&Links
+For Dataset: https://www.kaggle.com/competitions/playground-series-s6e4/data
